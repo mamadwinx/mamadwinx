@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/favicon.ico">
+<link type="application/opensearchdescription+xml" rel="search" href="/OpensearchDescription.xml" />
+<title>BingX Statistics: Markets, Trading Volume &amp; Trust Score | CoinGecko</title>
+<meta name="description" content="View BingX 24h trade volume, volume charts &amp; statistics, fee structure, market listings, trading pairs, and other cryptocurrency exchange info." />
+
+<script src="https://cdn-apac.onetrust.com/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" defer data-domain-script="49e8a847-f2c7-4b58-a340-caf0924064fe"></script>
+<script type="text/javascript">
+  const STRICT_COOKIE = "C0001";
+  const PERF_COOKIE = "C0002";
+  const FUNC_COOKIE = "C0003";
